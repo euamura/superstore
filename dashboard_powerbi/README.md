@@ -4,4 +4,4 @@
 
 Acesse o dashboard publicado no Power BI:
 
-[![Abrir Dashboard](superstore/dashboard_power_bi/images/main.png)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NzhlZjctNWNiMC00ZTc0LThlMGMtNDJmNDE5NWEyZTQ3IiwidCI6IjRhNWRiNDI3LTllNTgtNDQ5MC04ZDY4LWYxOWJlYjRiNzlmMCJ9)
+👉 **[Clique aqui para abrir o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NzhlZjctNWNiMC00ZTc0LThlMGMtNDJmNDE5NWEyZTQ3IiwidCI6IjRhNWRiNDI3LTllNTgtNDQ5MC04ZDY4LWYxOWJlYjRiNzlmMCJ9)** 
