@@ -58,3 +58,5 @@
 ### 5. Monitoramento
 - **Power BI Alerts**: Alertas de KPIs
 
+
+![Ingestao Visual](ingestao_pipeline.png)
