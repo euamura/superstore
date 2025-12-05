@@ -1,6 +1,6 @@
 ## 📐 Modelagem Dimensional — Estrutura do Banco de Dados
 
-![Diagrama do Modelo de Dados](estrutura_bd/images/diagrama.png)
+![Diagrama do Modelo de Dados](images/diagrama.png)
 
 A imagem acima apresenta o **modelo dimensional** utilizado no projeto, estruturado no formato **Star Schema** para otimizar análises, agregações e consultas em ambientes de Business Intelligence.
 
