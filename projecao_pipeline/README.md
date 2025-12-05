@@ -1,5 +1,6 @@
 # Projeção de Pipeline
-
+---
+![Ingestao Visual](ingestao_pipeline.png)
 ---
 
 ## 1. Ingestão
@@ -59,4 +60,3 @@
 - **Power BI Alerts**: Alertas de KPIs
 
 
-![Ingestao Visual](ingestao_pipeline.png)
